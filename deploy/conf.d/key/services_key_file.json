@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "e-wallet-308708",
+  "private_key_id": "5bcd972c1a302f3170eb16cf75cf4cf88b84a6e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIbBTEZGqt1Xp+\nCk0IEqtwPMcUYvZzF5xa1wAQ4cdjs5Z2u+/LG/m/hpoD5puqykTqDSWEQvs/LBcK\ndcZd+wJ9DzRJiVBa1KecAJUBjhyhLuzlJVzSdxXI8G6SU7ZBC54YDNK67lPcBKPb\n+PkBlXXX7n5itKJrRk5hwloxaa9WphPww8zaxtHinRRcmcDsVniRoVbdJxZzDJBg\n+2VQjO6LJQ5kX39zOMYenvFiPeIskqXX2y2BiEymt++CI4MpLTQmn8YdpBINA/5g\n1RU6kMWeAOe6tlr4/NW+0FscYRVA8LcTAkn+Nm+cOEL04r7fktFf12JZwyL5qcmN\nBGgx3V1BAgMBAAECggEAE9b7IUvNcaLRyttLL9LlTKl/jYmUWuVJ8YYZ+BHZkomL\nCfrlrGX7DZYN9ffkjf4S31Zo0dRtmZ3MNBlfhxsbbnTMWMEyhqNJajx2g55lQCFs\niuxtaVonemouj+aggoTbZAcU7zM7cuq0q8hUIe+BKFxv/2ZhM5xUkwHRutV66Wk/\nJKG1OuJQlIMUHzgjp+wFNKpGI3Jr4Sc7Rb3VIA8nQ7F8OqrwF9ovyJ0NoSOUSjOM\ntLo2hK3dNpadWYk8Veqliyhg+E3qrNXmWFwBQxotEjrN0IkSdRlRK6qYhu5bUNAF\nVzDR+uMz3X5RoovlqTippizGaRM4HBPLCU+JcceHKQKBgQD+3yFjsLnD/N2hRy3m\nRGXNpSRsT8FOvYsMRgHaDQqj4WUDO2jXfZbxXkXPY9fF59+9iArtGIR4FZWAIHa0\nTkn95HFvrbG94DKopkYov+R90XC7mAXzIW/iLNSTgZ07SOXtUadL43XZKx5tRjq3\nsKjT8mz5kgh6WKSiC24o9EO8XQKBgQDJTzz2m1cfgPCSlMUPPBZtJBu7lesu5TCG\nuwW+F9W84zbr4avoWPuPEm61RcFEWWHrH0zMiejxN5XwO95WBV4S49B0wWXFdMps\nEqjnWFhDIHD/MkK+xEh1BWUcpBAFK+ZSEDDw0V5IFdJOtoH63e2lKSHbmK/l/4Mb\nlcSfbs72NQKBgFB4er5TChQLPp6xLpjJd6saPQnFlK8bwU86u1LxUy6y94WxuERx\nbrr+nOQCDhp6P3ZEAc8iMpEHn5A4r8H2Bf6XpgkwujHNG7GL7hLno2jmO8W/FgHR\nyNWMegGoptAVECOB6GRZiNfseUrfJaLhsCxbGnUh2nNmkXRoT3u2w7wxAoGBAKb6\n9A12UrEOCf78Kez2IYAMWHij5T2z3CmVjjDcom0YZ2EHgsmqrZdCadQw9RvVrFQU\nVWa/6hnTyqpHbqgZsaunjiyakulTc+hrHfEvpZ6glToJHbYRKCzw+arlJ2iyvkxJ\no97NPBA9EYI6/tvxJANAeBYns5fq9nx2IW9BwagVAoGBAMvfmQyRmLnW1a2ABGRX\nUjWGxzxL9V4Dto5IDExuu1v6j6RVutaE4hsAXUJxphNF+7k8qn7TrMDoI/iNbARc\nlFULSSLiURykw05wWXpPYi4uRmgBz2lenbjMFI5XDFh7mQqnkWDFql77SJ7Vj3if\nhjvBrl258gs3mO2v8/zAO4zM\n-----END PRIVATE KEY-----\n",
+  "client_email": "davidleekc@e-wallet-308708.iam.gserviceaccount.com",
+  "client_id": "103757387074220754124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/davidleekc%40e-wallet-308708.iam.gserviceaccount.com"
+}
