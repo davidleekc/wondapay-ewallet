@@ -25,7 +25,7 @@ RUN apt-get update \
     && docker-php-ext-install zip \
     && apt-get autoclean -y \
     && rm -rf /var/lib/apt/lists/* \
-    && rm -rf /tmp/pear/ \
+    && rm -rf /tmp/pear/
 
 # Copy existing application directory contents to the working directory
 COPY . /var/www
